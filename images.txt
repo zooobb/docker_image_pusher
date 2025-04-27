@@ -7,3 +7,5 @@ nginx
 openjdk:17-oraclelinux8
 openjdk:8u131
 redis
+
+ghcr.io/metatube-community/metatube-server:latest
