@@ -9,3 +9,4 @@ openjdk:8u131
 redis
 
 ghcr.io/metatube-community/metatube-server:latest
+--platform=linux/arm64 rabbitmq:4.1.0-management-alpine
