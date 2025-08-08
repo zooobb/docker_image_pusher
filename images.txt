@@ -11,3 +11,5 @@ redis
 ghcr.io/metatube-community/metatube-server:latest
 --platform=linux/arm64 rabbitmq:4.1.0-management-alpine
 goharbor/prepare:v2.13.2
+redis:7.2
+redislabs/redisinsight:latest
