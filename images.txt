@@ -13,4 +13,5 @@
 #goharbor/prepare:v2.13.2
 #redis:7.2
 #redislabs/redisinsight:latest
-tonistiigi/binfmt:latest
+#tonistiigi/binfmt:latest
+finab/bark-server:latest
